@@ -3,7 +3,7 @@ name: flutter_onscreen_keyboard_workspace
 publish_to: none
 
 environment:
-  sdk: ^3.9.0
+  sdk: '>=3.2.0-0 <4.0.0'
 
 workspace:
   - packages/flutter_onscreen_keyboard
